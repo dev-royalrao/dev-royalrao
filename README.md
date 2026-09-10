@@ -42,4 +42,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=dev-royalrao&label=Profile%20Views&color=0e75b6&style=flat)
+[![](https://visitcount.itsvg.in/api?id=dev-royalrao&icon=0&color=0)](https://visitcount.itsvg.in)
